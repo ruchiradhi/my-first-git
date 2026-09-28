@@ -1,0 +1,9 @@
+# junk files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+
+# secrets
+.env
